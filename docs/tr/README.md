@@ -1,5 +1,5 @@
 # MASTEC
-## Orta Asya Bilim ve Teknoloji Eğitim Merkezi
+## Asiyayi Miyane Bilim ve Teknoloji Eğitim Merkezi
 
 Bu klasör, MASTEC projesinin Türkçe dokümantasyonunu içerir.
 
@@ -7,4 +7,3 @@ Bu klasör, MASTEC projesinin Türkçe dokümantasyonunu içerir.
 - Misyon
 - Proje kapsamı
 - Eğitim ve merkez planları
-
